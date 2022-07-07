@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HypnagogicSparks
 - 👀 I’m interested in art.
 - 🌱 I’m currently learning Blender, HTML/CSS, python, and javascript.
-- 
 
 
 <!---
